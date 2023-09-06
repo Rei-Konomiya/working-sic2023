@@ -1,3 +1,7 @@
 1
+<<<<<<< .merge_file_5TC5NC
 2行目変更
+=======
+真ん中
+>>>>>>> .merge_file_MnxfsS
 3
